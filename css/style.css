@@ -357,7 +357,7 @@ header {
   display: grid;
   justify-items: center;
 }
-
+/* Este es un comentario de demostración */
 .section_tittle {
   font-family: "Orbitron", sans-serif;
   font-size: 2em;
