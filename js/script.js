@@ -1,10 +1,10 @@
-//Show and Hide Menu navbar
+//Show Menu navbar
 function showMenu(){
   document.getElementById('NavMenu').style.display = "flex";
   document.getElementById('CerrarMenu').style.display = "inline";
   document.getElementById('Menu').style.display = "none";
 }
-
+//Hide Menu navbar
 function hideMenu(){
   document.getElementById('NavMenu').style.display = "none";
   document.getElementById('CerrarMenu').style.display = "none";
